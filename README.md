@@ -1,7 +1,3 @@
-Absolutely! Here's a clean and well-documented **FastAPI CRUD application** using **Swagger UI** for testing. You can use this directly for your GitHub `README.md` or documentation.
-
----
-
 # 📦 FastAPI CRUD Application with Swagger UI
 
 This project demonstrates how to build a simple CRUD (Create, Read, Update, Delete) API using **FastAPI** and **Uvicorn**, tested via **Swagger UI**.
