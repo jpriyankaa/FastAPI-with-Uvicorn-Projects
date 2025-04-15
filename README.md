@@ -1,4 +1,4 @@
-# 📦 FastAPI CRUD Application with Swagger UI
+# 📦 FastAPI and Uvicorn - CRUD Application with Swagger UI
 
 This project demonstrates how to build a simple CRUD (Create, Read, Update, Delete) API using **FastAPI** and **Uvicorn**, tested via **Swagger UI**.
 
